@@ -32,7 +32,7 @@ This is a simple **Node.js Express API** that connects to a **MongoDB** database
 
 ### Run Locally (Without Docker)
 #### **Prerequisites**
-- **Node.js** (>= 14.x)
+- **Node.js** (>= 18.x)
 - **MongoDB** (running locally or in the cloud)
 
 #### **Steps**
